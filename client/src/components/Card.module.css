@@ -1,0 +1,39 @@
+.cardContainer {
+    box-shadow: 0.6rem 0 0.5rem 0.3rem rgb(55, 34, 61);
+    border-radius: 9px;
+    width: 300px;
+    height: 280px;
+    font: 1em sans-serif;
+    background-color: rgb(210, 150, 250);
+    font-size: 15px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.cardContainer3 {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.diet {
+    border-radius: 7px;
+    padding: 5px;
+    border: solid 1px rgb(119, 23, 163);
+}
+
+.cardContainer2 {
+    padding: 7px;
+}
+
+.cardContainer img {
+    border-radius: 9px;
+    margin-top: 10px;
+    width: 200PX;
+    height: 150px;
+}
+
